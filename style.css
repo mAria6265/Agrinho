@@ -1,0 +1,19 @@
+:root{
+
+}
+
+body {
+    background-image: url('img/image-114-1024x1021.png');
+    background-size: 100%;
+    background-position: center;
+}
+
+
+
+footer p{
+    text-align: center;
+    font-size: 0.8rem;
+        height:2rem;
+         margin-top: 0,5rem;
+          font-family: Montserrat ;
+}
